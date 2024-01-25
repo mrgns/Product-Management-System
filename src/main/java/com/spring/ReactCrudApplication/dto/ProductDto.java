@@ -13,6 +13,6 @@ public class ProductDto {
 
 	private Double price;
 
-	private boolean inStocked;
+	private Integer inStocked;
 
 }

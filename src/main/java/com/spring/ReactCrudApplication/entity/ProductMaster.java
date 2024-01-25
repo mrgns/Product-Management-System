@@ -29,6 +29,6 @@ public class ProductMaster {
 	private Double price;
 	
 	@Column(name="in_stocked")
-	private boolean inStocked;
+	private Integer inStocked;
 
 }
